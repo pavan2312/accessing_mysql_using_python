@@ -1,2 +1,3 @@
-# accessing_mysql_using_python
-Simple code to access mysql db using python
+# accessing_mysqldb_using_python
+sample code to access mysql db using python
+
